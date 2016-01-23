@@ -67,7 +67,7 @@ There is a counter-point to this, which is that it is OK to work with statistics
 
 This is because if you get a bad result for this unit, but over a large population of units you get a reasonable result, then it is OK that you used statistics to make a decision about this unit, because you are really concerned with a large population, not with this individual unit.
 
-So, this means statistics is valid when working against a large-enough population, and while using statistics on an individual unit is invalid, using statistics invalidly against individual units over and over again, yields statistically valid results in sum.
+So, this means statistics are valid when working against a large-enough population, and while using statistics on an individual unit is invalid, using statistics invalidly against individual units over and over again, yields statistically valid results in sum.
 
 Thus, it mostly matters whether you care about an individidual instance being correct, or if it is acceptable for that one to be incorrect, while on a large population this can be used validly.
 
