@@ -47,7 +47,7 @@ NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other r
 
 ## Scope of Change
 
-There are many situations where statistics are applied to single case scenarios.
+There are many situations today where statistics are applied to single case scenarios.
 
 Every time someone applies a statistical value to a single case, they are ignoring all the local data available to them, and instead choosing to use aggregated external data instead of the local data to make a decision.  This aggregated external data is assured to be only coincidentally related to the local data, as it is not derived from the local data.
 
