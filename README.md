@@ -51,7 +51,7 @@ There are many situations today where statistics are applied to single case scen
 
 Every time someone applies a statistical value to a single case, they are ignoring all the local data available to them, and they choose to use aggregated external data instead of the local data to make a decision.  This aggregated external data is assured to be only coincidentally related to the local data, as it is not derived from the local data, so there is no direct relation to the local data.
 
-Just like in the case of the car with an obstacle in front of it, which is specifically meant to be a very limited situation with a single axis of choice (right or left), and a single problem (obstacle position in relation to right or left side of car), most problems have many additional data points which create a complex network of total working data to make a decision.
+Just like in the case of your car with an obstacle in front of it, which is specifically meant to be a very limited situation with a single axis of choice (right or left), and a single problem (obstacle position in relation to right or left side of car), most problems have many additional data points which create a complex network of total working data to make a decision.
 
 However, it does not matter how many data points there are in a problem, or how complex the network of relationships between those data points are, when you are working with a population size of one, it has a 100% unique set of data, which can only be applied to a large population of data in a statistical way, but cannot be reversed from a stastitical population result into a valid comparison with a single unit.
 
