@@ -34,8 +34,6 @@ My assumption is that this type of transition between stastics ability to be use
 
 Note that I write "Possible Valid" as Validity approaches 1.0, as there are other reasons for statistics not to be valid.  For example, it was created out of data that does not align to the current data, or there are known demographical or other differences which will invalidate the comparison.  Population Size of 1 only ensures invalidity.
 
-And to be completely mathmatically oriented for this inspection, populations of 0 are also always invalid.  But if you could have a negative population, would all population sizes be invalid?  I would assert that at least a population of -1 would be invalid, due to the same reasons as positive 1 population: specificity and local information.
-
 Normal Y-Scaling:
 
 ![Problem Introduction](images/stats_validity_normal.png)
@@ -43,3 +41,5 @@ Normal Y-Scaling:
 Logarithmic Y-Scaling, since Normal Y-Scaling is almost completely at 0.0 until the very end:
 
 ![Problem Introduction](images/stats_validity_log.png)
+
+To go into completely logical space, populations of 0 are also always invalid.  But if you could have a negative population, would all population sizes be invalid?  I would assert that at least a population of -1 would be invalid, due to the same reasons as positive 1 population: specificity and local information.
