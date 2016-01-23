@@ -57,7 +57,7 @@ However, it does not matter how many data points there are in a problem, or how 
 
 Statistics takes individual data points, and creates a new single aggregate data point, which can be validily compared to other populations, and individuals can be compared to the statistical results to determine how they match up to the statistical population set, always going from more-specific to less-specific.
 
-When trying to use statistics against a population of one, then we are trying to use less-specific information to get more-specific information, which is not possible, because that is creating accurate data from nothing.  Statistics is a lossy operation, and cannot be reversed to get better results than looking at the single case.
+When trying to use statistics against a population of one, then we are trying to use less-specific information to get more-specific information, which is not possible, because that is creating accurate data from nothing.  Statistics is a lossy operation, and cannot be reversed to get better results than looking at the single case.  When reversing the results from a large-enough population to a single unit population, the results become invalid, as only the local data is accurate data.
 
 I believe we need to study this more thouroughly, as it should be provable with the correct kinds of studies that the efforts to treat problems (of individuals) with statistics yields worse results (because they are invalid) than making decisions based on local data.
 
