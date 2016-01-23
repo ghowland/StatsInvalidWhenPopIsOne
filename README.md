@@ -4,7 +4,9 @@ This is a meant as a logical essay proof that all statistics are invalid when th
 
 My assertion is that when the population size is one, all information is local information, and no external population statistical information can determine anything about this single unit of population.
 
-Let's start with a problem example.  Initial Scenario:
+Let's start with a problem example.
+
+## Initial Scenario
 
 1. You are in a car, in the center of a wide road, with no obstacles or other cars around you, and no turns or other decisions to be made for a long time.
 2. You are going straight, there is no reason to change inputs.  The initial situation is stable, and without obstacles.
