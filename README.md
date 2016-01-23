@@ -77,5 +77,7 @@ When we use statistical information on a single unit of population, we are perfo
 
 When we use statistical information over-and-over, across single units that create a large-enough population, we have correctly applied population statistics to a population, but because each individual operation was an invalid one, then there was information that was lost in that operation, and in sum we have lost information.
 
-This means that the results we get from running invalid operations fails to give us valid feedback from each operation, which could be used to improve the overall process, and is not only not available when using an invalid operation, but we are mislead to think that the operation was valid because we get some information, and it appears to be correlated, but since it went through a layer of processing where all the results were invalid, then this is invalid correlation.
+This means that the results we get from running invalid operations fails to give us valid feedback from each operation, which could be used to improve the overall process, and is not available when using an invalid operation, and we are mislead to think that the operation was valid because we did get some information, and it appears to be correlated due to comparing a large-enough population, but since it went through a layer of processing where all the results were invalid, then this is utlimately an invalid correlation.
+
+The process is valid, but the data from the process is invalid.
 
