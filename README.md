@@ -17,7 +17,7 @@ Problem Introduction:
 1. From the Initial Scenario...
 2. An obstable is introduced ahead of the car's path.
 3. There are 2 options available in this scenario:  Turn Right or Turn Left
-4. Can you determine, through use of statistics, for this given problem, whether one should statistically Turn Right or Turn Left?
+4. Can you determine, through use of statistics, for this given problem, whether one should statistically: Turn Right or Turn Left?
 5. Given unlimited resources, could you design an experiment and create a set of statistical data that would allow you to determine whether you should statistically Turns Right or Turn Left in this specific problem case?
 
 ![Problem Introduction](images/stats_invalid_01.PNG)
