@@ -37,6 +37,8 @@ My assumption is that this type of transition between stastics ability to be use
 
 NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other reasons for statistics not to be valid.  For example, it was created out of data that does not align to the current data, such as known demographical, geographical or other differences which will invalidate the comparison.  Population Size of 1 only ensures invalidity, and having a large population allows for possible validity.
 
+I use "Large Population" or large-enough population, as populations close to sizes of 1 will also be more-invalid than valid.  What the required population size is for a statistical population is well-covered material.
+
 ### Normal Y-Scaling
 
 ![Problem Introduction](images/stats_validity_normal.png)
