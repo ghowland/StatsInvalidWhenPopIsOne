@@ -81,5 +81,5 @@ When we use statistical information over-and-over, across single units that crea
 
 This means that the results we get from running invalid operations fails to give us valid feedback from each operation, which could be used to improve the overall process, and is not available when using an invalid operation, and we are mislead to think that the operation was valid because we did get some information, and it appears to be correlated due to comparing a large-enough population, but since it went through a layer of processing where all the results were invalid, then this is utlimately an invalid correlation.
 
-The process is valid, but the data from the process is invalid.
+The process is valid, but the data from the process is invalid, so the final results are questionable in value.
 
