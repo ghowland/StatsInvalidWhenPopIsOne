@@ -40,6 +40,6 @@ Normal Y-Scaling:
 
 ![Problem Introduction](images/stats_validity_normal.png)
 
-Logarithmic Y-Scaling:
+Logarithmic Y-Scaling, since Normal Y-Scaling is almost completely at 0.0 until the very end:
 
 ![Problem Introduction](images/stats_validity_log.png)
