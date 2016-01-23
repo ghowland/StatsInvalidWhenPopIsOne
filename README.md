@@ -47,3 +47,21 @@ Note that I write "Possible Valid" as Validity approaches 1.0, as there are othe
 ## Further Thoughts
 
 To go into completely logical space, populations of 0 are also always invalid.  But if you could have a negative population, would all population sizes be invalid?  I would assert that at least a population of -1 would be invalid, due to the same reasons as positive 1 population: specificity and local information.
+
+## Scope of Change
+
+There are many situations that are currently using statistics to apply to single case scenarios.
+
+Every time someone applies a statistical value to a single case, they are ignoring all the local data available to them, and instead choosing to use external data instead of the local data to make a decision.
+
+Just like in the case of the car with an obstacle in front of it, which is specifically meant to be a very limited situation with a single axis of choice (right or left), and a single problem (obstacle position in relation to right or left side of car), most problems have many additional data points which create a complex network of total working data to make a decision.
+
+However, it does not matter how many data points there are in a problem, or how complex the network of relationships between those data points are, when you are working with a population size of one, it has a 100% unique set of data, which can only be applied to a large population of data in a statistical way, but cannot be reversed from a stastitical population result into a valid comparison with a single unit.
+
+Statistics takes individual data points, and creates a new single aggregate data point, which can be validily compared to other populations, and individuals can be compared to the statistical results to determine how they match up to the statistical population set, always going from more-specific to less-specific.
+
+When trying to use statistics against a population of one, then we are trying to use less-specific information to get more-specific information, is not possible, because that is creating accurate data from nothing.  Statistics is a lossy operation, and cannot be reversed to get better results than looking at the single case.
+
+I believe we need to study this more thouroughly, as it should be provable with the correct kinds of studies that the efforts to treat problems (of individuals) with statistics yields worse results (because they are invalid) than making decisions based on local data.
+
+
