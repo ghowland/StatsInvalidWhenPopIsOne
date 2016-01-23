@@ -12,7 +12,7 @@ Let's start with a problem example.
 2. You are going straight, there is no reason to change direction.  The initial situation is stable, and without obstacles.  It's legal and OK to be driving in between lanes for this example.
 3. No other options are available, such as "Slow down", "Stop" or "Transform and Fly Away".  Only "Turn Right" and "Turn Left" are available options for this example scenario.
 
-![Problem Introduction](images/stats_invalid_00.PNG)
+![Initial Scenario](images/stats_invalid_00.PNG)
 
 ## Problem Introduction
 
@@ -39,13 +39,13 @@ NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other r
 
 I use "Large Population" or large-enough population, as populations close to sizes of 1 will also be more-invalid than valid.  What the required population size is for a statistical population can be referenced elsewhere.
 
-### Normal Y-Scaling
+### Normal Y-Scaling - Mandatory Graph
 
-![Problem Introduction](images/stats_validity_normal.png)
+![Graph Normal Y](images/stats_validity_normal.png)
 
 #### Logarithmic Y-Scaling, since Normal Y-Scaling is almost completely at 0.0 until the very end
 
-![Problem Introduction](images/stats_validity_log.png)
+![Graph Log Y](images/stats_validity_log.png)
 
 ## Scope of Change
 
