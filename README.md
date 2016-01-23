@@ -38,7 +38,7 @@ Note that I write "Possible Valid" as Validity approaches 1.0, as there are othe
 
 ![Problem Introduction](images/stats_validity_normal.png)
 
-### Logarithmic Y-Scaling, since Normal Y-Scaling is almost completely at 0.0 until the very end
+#### Logarithmic Y-Scaling, since Normal Y-Scaling is almost completely at 0.0 until the very end
 
 ![Problem Introduction](images/stats_validity_log.png)
 
