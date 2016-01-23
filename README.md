@@ -12,7 +12,7 @@ Let's start with a problem example.  Initial Scenario:
 
 ![Problem Introduction](images/stats_invalid_00.PNG)
 
-Problem Introduction:
+## Problem Introduction
 
 1. From the Initial Scenario...
 2. An obstable is introduced ahead of the car's path.
@@ -22,7 +22,7 @@ Problem Introduction:
 
 ![Problem Introduction](images/stats_invalid_01.PNG)
 
-My Conclusion:
+## My Conclusion
 
 1. Because the data available is local to the single problem case (an obstacle in front of your car, right now), all the data is local to the situation.
 2. No amount of data about other situations will tell you whether you should "Turn Right" or "Turn Left", because that information would be based on different situational data.
@@ -34,12 +34,14 @@ My assumption is that this type of transition between stastics ability to be use
 
 Note that I write "Possible Valid" as Validity approaches 1.0, as there are other reasons for statistics not to be valid.  For example, it was created out of data that does not align to the current data, or there are known demographical or other differences which will invalidate the comparison.  Population Size of 1 only ensures invalidity.
 
-Normal Y-Scaling:
+### Normal Y-Scaling
 
 ![Problem Introduction](images/stats_validity_normal.png)
 
-Logarithmic Y-Scaling, since Normal Y-Scaling is almost completely at 0.0 until the very end:
+### Logarithmic Y-Scaling, since Normal Y-Scaling is almost completely at 0.0 until the very end
 
 ![Problem Introduction](images/stats_validity_log.png)
+
+## Further Thoughts
 
 To go into completely logical space, populations of 0 are also always invalid.  But if you could have a negative population, would all population sizes be invalid?  I would assert that at least a population of -1 would be invalid, due to the same reasons as positive 1 population: specificity and local information.
