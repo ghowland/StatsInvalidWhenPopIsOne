@@ -28,7 +28,7 @@ Let's start with a problem example.
 
 1. Because the data available is local to the single problem case (an obstacle in front of your car, right now), all the data is local to the situation.
 2. No amount of data about other situations will tell you whether you should "Turn Right" or "Turn Left", in this situation, because that information would be based on data from different situations.
-3. Only this exactly single (one) case will have the exact data that we need to determine a correct action.
+3. Only this exactly single (one) case will have the exact data that we need to determine a correct action, which is based on the data local to our situation:  Where the obstacle exists in relation to our car.
 4. The only data relevant to making this decision will come from the local data, which is:  If the obstacle is closer to the Right Side of the car, you should "Turn Left" to better avoid it, and conversely if the obstacle is closer to the Left Side of the car, you should "Turn Right" to better avoid it.
 5. No amount of non-local data that could be analyzed would be able to give anything but pure chance as to the location of the obstacle in relation to your car, to determine which direction is best to avoid the obstacle.
 
