@@ -49,7 +49,7 @@ NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other r
 
 There are many situations that are currently using statistics to apply to single case scenarios.
 
-Every time someone applies a statistical value to a single case, they are ignoring all the local data available to them, and instead choosing to use external data instead of the local data to make a decision.
+Every time someone applies a statistical value to a single case, they are ignoring all the local data available to them, and instead choosing to use aggregated external data instead of the local data to make a decision.  This aggregated external data is assured to be only coincidentally related to the local data, as it is not derived from the local data.
 
 Just like in the case of the car with an obstacle in front of it, which is specifically meant to be a very limited situation with a single axis of choice (right or left), and a single problem (obstacle position in relation to right or left side of car), most problems have many additional data points which create a complex network of total working data to make a decision.
 
