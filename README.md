@@ -45,10 +45,6 @@ NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other r
 
 ![Problem Introduction](images/stats_validity_log.png)
 
-## Further Thoughts
-
-To go into completely logical space, populations of 0 are also always invalid.  But if you could have a negative population, would all population sizes be invalid?  I would assert that at least a population of -1 would be invalid, due to the same reasons as positive 1 population: specificity and local information.
-
 ## Scope of Change
 
 There are many situations that are currently using statistics to apply to single case scenarios.
