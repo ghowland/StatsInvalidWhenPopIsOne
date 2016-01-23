@@ -61,4 +61,21 @@ When trying to use statistics against a population of one, then we are trying to
 
 I believe we need to study this more thouroughly, as it should be provable with the correct kinds of studies that the efforts to treat problems (of individuals) with statistics yields worse results (because they are invalid) than making decisions based on local data.
 
+### When Working With Statistics Against Single Population Units Is OK
+
+There is a counter-point to this, which is that it is OK to work with statistics against a single unit population size, when you do not care whether the result is a good one for this unit.
+
+This is because if you get a bad result for this unit, but over a large population of units you get a reasonable result, then it is OK that you used statistics to make a decision about this unit, because you are really concerned with a large population, not with this individual unit.
+
+So, this means statistics is valid when working against a large-enough population, and while using statistics on an individual unit is invalid, using statistics invalidly against individual units over and over again, yields statistically valid results in sum.
+
+Thus, it mostly matters whether you care about an individidual instance being correct, or if it is acceptable for that one to be incorrect, while on a large population this can be used validly.
+
+### But, Information Is Lost
+
+When we use statistical information on a single unit of population, we are performing an invalid operation.
+
+When we use statistical information over-and-over, across single units that create a large-enough population, we have correctly applied population statistics to a population, but because each individual operation was an invalid one, then there was information that was lost in that operation, and in sum we have lost information.
+
+This means that the results we get from running invalid operations fails to give us valid feedback from each operation, which could be used to improve the overall process, and is not only not available when using an invalid operation, but we are mislead to think that the operation was valid because we get some information, and it appears to be correlated, but since it went through a layer of processing where all the results were invalid, then this is invalid correlation.
 
