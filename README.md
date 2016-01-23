@@ -27,7 +27,7 @@ My Conclusion:
 1. Because the data available is local to the single problem case (an obstacle in front of your car, right now), all the data is local to the situation.
 2. No amount of data about other situations will tell you whether you should "Turn Right" or "Turn Left", because that information would be based on different situational data.
 3. Only this exactly single (one) case will have the exact data that we need to determine a correct action.
-4. The only data relevant to making this decision will come from the local data, which is:  If the obstacle is closer to the Right Side of the car, you should Turn Left to better avoid it, and conversely if the obstacle is closer to the Left Side of the car, you should Turn Right to better avoid it.
+4. The only data relevant to making this decision will come from the local data, which is:  If the obstacle is closer to the Right Side of the car, you should "Turn Left" to better avoid it, and conversely if the obstacle is closer to the Left Side of the car, you should "Turn Right" to better avoid it.
 5. No amount of non-local data that could be analyzed would be able to give anything but pure chance as to the location of the obstacle in relation to your car, to determine which direction is best to avoid the obstacle.
 
 My assumption is that this type of transition between stastics ability to be used validly would be something like an exponential curve at the point where the population becomes large enough to be statistically signficant.  This may actually be more like an S-curve though.  I will leave that as an exercise for other people, but here are some simple example exponential graphs just to add a visual-style explanation of this validity curve.
