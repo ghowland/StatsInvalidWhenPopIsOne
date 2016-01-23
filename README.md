@@ -2,7 +2,7 @@
 
 This is a logical essay to prove that all statistics are invalid when the population size is one.
 
-My assertion is that when the population size is one, only local information is valid, and no external population statistical values can determine anything about this single unit of population, because it is unique.
+My assertion is that when the population size is one, only local information is valid, and no external population statistical values can determine anything about this single unit of population, because all it's data is unique and local.
 
 Let's start with a problem example.
 
