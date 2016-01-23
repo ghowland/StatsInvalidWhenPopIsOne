@@ -35,7 +35,7 @@ Let's start with a problem example.
 
 My assumption is that this type of transition between stastics ability to be used validly would be something like an exponential curve at the point where the population becomes large enough to be statistically signficant.  This may actually be more like an S-curve though.  I will leave that as an exercise for other people, but here are some simple example exponential graphs just to add a visual-style explanation of this validity curve.
 
-NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other reasons for statistics not to be valid.  For example, it was created out of data that does not align to the current data, or there are known demographical or other differences which will invalidate the comparison.  Population Size of 1 only ensures invalidity, and having a large population allows for possible validity.
+NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other reasons for statistics not to be valid.  For example, it was created out of data that does not align to the current data, such as known demographical, geographical or other differences which will invalidate the comparison.  Population Size of 1 only ensures invalidity, and having a large population allows for possible validity.
 
 ### Normal Y-Scaling
 
