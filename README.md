@@ -1,6 +1,6 @@
 # Statistics Are Invalid When Population Size Is One
 
-This is a meant as a logical proof that statistics are invalid when the population size is one.
+This is a meant as a logical essay proof that all statistics are invalid when the population size is one.
 
 My assertion is that when the population size is one, all information is local information, and no external population statistical information can determine anything about this single unit of population.
 
