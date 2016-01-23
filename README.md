@@ -39,7 +39,7 @@ NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other r
 
 I use "Large Population" or large-enough population, as populations close to sizes of 1 will also be more-invalid than valid.  What the required population size is for a statistical population can be referenced elsewhere.
 
-### Normal Y-Scaling - Mandatory Graph
+### Mandatory Graph - Normal Y-Scaling
 
 ![Graph Normal Y](images/stats_validity_normal.png)
 
