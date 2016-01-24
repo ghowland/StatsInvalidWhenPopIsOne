@@ -1,4 +1,4 @@
-# Statistics Are Invalid When Population Size Is One
+## Statistics Are Invalid When Population Size Is One And Accuracy Matters
 
 This is a logical essay to prove that all statistics are invalid when the population size is one.
 
