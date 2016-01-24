@@ -101,4 +101,6 @@ The Ecological Fallacy does not match up because it is not focused on the unique
 
 The external facts may correlate to the local facts, and they may have a low-margin of error against a large-enough population, but against the single unit that we care about there is a boolean value for each discrete value match, and it is 100% aligned against the local data, which is the only accurate source of information.  If we care about accuracy, then we need this 100% accurate data, and data that is 99.9% over a large-enough population is just not good enough, because it does not satisfy our 100% requirement on being accurate for this single unit in this single instance.
 
-If you would like to see the discussion on Reddit about this, you can find it here:  https://www.reddit.com/r/statistics/comments/4299px/statistics_are_invalid_when_population_size_is/?ref=share&ref_source=link
+If you would like to see the discussion on Reddit about this, you can find it here:
+
+https://www.reddit.com/r/statistics/comments/4299px/statistics_are_invalid_when_population_size_is/
