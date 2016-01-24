@@ -73,7 +73,7 @@ So, this means statistics are valid when working against a large-enough populati
 
 Thus, it mostly matters whether you care about an individidual instance being correct, or if it is acceptable for that one to be incorrect, while on a large population this can be used validly.
 
-### But, Information Is Lost
+#### But, Information Is Lost
 
 When we use statistical information on a single unit of population, we are performing an invalid operation.
 
@@ -83,3 +83,20 @@ This means that the results we get from running invalid operations fails to give
 
 The process is valid, but the data from the process is invalid, so the final results are questionable in value.
 
+## Additional Information
+
+At this point I'm going to add in any additional information on this problem, such as comparisons to similar things that do not solve this problem, but are important to understand their similarities and differences.
+
+### Comparison to the Ecological Fallacy
+
+The [Ecological Fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy) is a description of a problem where you are trying to get information about an individual from the group's information.
+
+This fallacy has a similar to the problem I am presenting here, but does not align to the problem in a super-set manner, and does not account for many of the problems.
+
+The Ecological Fallacy says, to paraphase briefly, that you cannot infer data from a group to make it true about an individual, even if the individual is in that group.
+
+This is similar to the problem I am stating, in that one is trying to make information out of external data apply validly to an individual, and the information does not necessarily apply.
+
+Where this does not match up is that is not focused on the uniqueness of the individual's data directly.  The reason that I am asserting "Statistics Are Invalid If You Care About A Single Population Unit's Data Being Accurate" is that it relates to a real-world problem that we have, which is that we have single instances where we need to make a decision.  Using non-local data means we are not basing our decision on the facts at hand (local data), but data that is certainly not the facts at hand (external data).
+
+The external facts may correlate to the local facts, and they may have a low-margin of error against a large-enough population, but against the single unit that we care about there is a boolean value for each match, and it is 100% aligned against the local data.  If we care about accuracy, then we need this 100% accurate data, and data that is 99.9% over a large-enough population is just not good enough, because it does not satisfy our 100% requirement on being accurate for this single unit in this single instance.
