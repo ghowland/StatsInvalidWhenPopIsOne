@@ -48,7 +48,7 @@ I have created a thought experiment to create a real-world-style scenario for th
 
 ![Problem Introduction](images/stats_invalid_01.PNG)
 
-## My Conclusion
+## Assertion
 
 1. Because the data available is local to the single problem case (an obstacle in front of your car, right now), the only valid data is local to the situation.
 2. No amount of data about other situations will tell you whether you should "Turn Right" or "Turn Left" in this situation, because that information would be based on data from different situations, where those obstacles and those cars had different relationships between them, than your car and the obstacle currently in front of it.
