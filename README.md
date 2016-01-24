@@ -11,16 +11,21 @@ By accuracy being important, I mean:
 
 In short, when you really want whatever it is you are going to do, to work.
 
-My assertion is that when the population size is one, and you care about the accuracy of your data to be as precise as possible, only local information is valid, and no external population statistical values can determine anything about this single unit of population, because all it's data is unique and local.
+My assertion is that:
+
+- When the population size is one...
+- ...And you care about the accuracy of your data to be as precise as possible...
+- ...Only local information is valid...
+- ...And no external data can determine anything about this single unit's single instance (now), because all it's state data is unique and local to that single unit's single instance's current state.
 
 To lay out the requirements for this to be true:
 
-- You have a single unit at a single instance in time
-- You need to make a decision about this unit that requires accurate data (it's important)
+- You have a single unit at a single instance in time.
+- You need to make a decision about this unit that requires accurate data, because it's important that whatever it is that you are going to do needs to provide a result that meets your goals.
 
-Another way to say "Statistics are invalid", might be to say "No external data is valid, only local data is valid".  Statistics are generally the form that external data is presented in, so that is what I am addressing.
+Another way to say "Statistics are invalid", might be to say "No external data is valid, only local data is valid".  Statistics are frequently the form that external data is presented in, so I have titled this assertion accordingly, but all external data is the issue, since external data has no correlation to the current state of a distinct unit.
 
-Let's start with a thought experiment, to create a real-world-style scenario for this situation:
+I have created a thought experiment to create a real-world-style scenario for this situation, to hopefully provide a way to visualize why only local data is useful in a situation where there is a single instance of a single unit being inspected:
 
 ## Initial Scenario
 
