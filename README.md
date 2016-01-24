@@ -56,20 +56,6 @@ I have created a thought experiment to create a real-world-style scenario for th
 5. No amount of non-local data that could be analyzed would be able to give anything but pure chance as to the location of the obstacle in relation to your car, to determine which direction is best to avoid the obstacle.
 6. Additionally, external information has the potential to be biased through assumptions in test formulation, which are unrelated to the physical location of your car and the obstacle, in this moment in time.
 
-My assumption is that this type of transition between stastics ability to be used validly would be something like an exponential curve at the point where the population becomes large enough to be statistically signficant.  This may actually be more like an S-curve though.  I will leave that as an exercise for other people, but here are some simple example exponential graphs just to add a visual-style explanation of this validity curve.
-
-NOTE:  I write "Possibly Valid" as Validity approaches 1.0, as there are other reasons for statistics not to be valid.  For example, it was created out of data that does not align to the current data, such as known demographical, geographical or other differences which will invalidate the comparison.  Population Size of 1 only ensures invalidity, and having a large population allows for possible validity.
-
-I use "Large Population" or large-enough population, as populations close to sizes of 1 will also be more-invalid than valid.  What the required population size is for a statistical population can be referenced elsewhere.
-
-#### Mandatory Graph - Normal Y-Scaling
-
-![Graph Normal Y](images/stats_validity_normal.png)
-
-#### Logarithmic Y-Scaling, since Normal Y-Scaling is almost completely at 0.0 until the very end
-
-![Graph Log Y](images/stats_validity_log.png)
-
 ## Scope of Change
 
 There are many situations today where statistics are applied to single case scenarios.
