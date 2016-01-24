@@ -25,6 +25,8 @@ To lay out the requirements for this to be true:
 
 Another way to say "Statistics are invalid", might be to say "No external data is valid, only local data is valid".  Statistics are frequently the form that external data is presented in, so I have titled this assertion accordingly, but all external data is the issue, since external data has no correlation to the current state of a distinct unit.
 
+This assertion is not to take anything away from any of the areas where statistics is valid, but only to cover a point where statistics and other external data is being used invalidly, as the situation requires only using local data.
+
 I have created a thought experiment to create a real-world-style scenario for this situation, to hopefully provide a way to visualize why only local data is useful in a situation where there is a single instance of a single unit being inspected:
 
 ## Initial Scenario
