@@ -32,7 +32,7 @@ I have created a thought experiment to create a real-world-style scenario for th
 
 ## Initial Scenario
 
-1. You are in a car, in the center of a wide road, with no obstacles or other cars around you, and no turns or other decisions to be made for a long time.
+1. You are in a car, in the center of a wide one-way road, with no obstacles or other cars around you, and no turns or other decisions to be made for a long time.
 2. You are going straight, there is no reason to change direction.  The initial situation is stable, and without obstacles.  It's legal and OK to be driving in between lanes for this example.
 3. No other options are available, such as "Slow down", "Stop" or "Transform and Fly Away".  Only "Turn Right" and "Turn Left" are available options for this example scenario.
 
