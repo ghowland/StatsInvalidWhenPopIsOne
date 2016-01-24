@@ -1,4 +1,4 @@
-# Statistics, And Other External Data, Are Invalid When Population Size Is One And Accuracy Matters
+# Statistics, And Other Non-Local Data Sources, Are Invalid When Population Size Is One And Accuracy Matters
 
 This is a logical essay to assert that all statistics, and other sources of non-local data, are invalid when the population size is one and accuracy is important.
 
