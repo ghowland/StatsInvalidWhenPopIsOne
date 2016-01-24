@@ -60,7 +60,7 @@ I have created a thought experiment to create a real-world-style scenario for th
 
 ## Scope of Change
 
-There are many situations today where statistics and other external data are applied to critical single case scenarios, without the acknowledgement that the comparisons may be invalid as the external data bears no correlation to the precise immediate state subject matter.
+There are many situations today where statistics and other external data are applied to critical single case scenarios, without the acknowledgement that the comparisons may be invalid as the external data bears no correlation to the precise immediate state of the subject matter.
 
 My hope, if this assertion is not falsified (please do!), is this the improved information that comes from further discussion will provide another tool when evaluating changes.
 
