@@ -80,8 +80,6 @@ This is similar to the problem I am stating, in that one is trying to take infor
 
 The Ecological Fallacy does not match up because it is not focused on the uniqueness of the individual's data directly.  The reason that I am asserting "Statistics and External Data Are Invalid If You Care About Decisions Around A Single Population Unit's Accuracy" is that it relates to a real-world problem that we have, which is that we have single instances where we need to make an accurate decision, based on the best information, which must be local information.  Using non-local data means we are not basing our decision on the facts at hand (local data), but data that is certainly not the facts at hand (external or non-local data).
 
-The external facts may correlate to the local facts, and they may have a low-margin of error against a large-enough population, but against the single unit that we care about there is a boolean value for each discrete value match, and it is 100% aligned against the local data, which is the only accurate source of information.  If we care about accuracy, then we need this 100% accurate data, and data that is 99.9% over a large-enough population is just not good enough, because it does not satisfy our 100% requirement on being accurate for this single unit in this single instance.
-
 If you would like to see the discussion on Reddit about this, you can find it here:
 
 https://www.reddit.com/r/statistics/comments/4299px/statistics_are_invalid_when_population_size_is/
