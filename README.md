@@ -1,6 +1,6 @@
 # Statistics Are Invalid When Population Size Is One And Accuracy Matters
 
-This is a logical essay to prove that all statistics are invalid when the population size is one and accuracy is important.
+This is a logical essay to prove that all statistics, and other sources of non-local data, are invalid when the population size is one and accuracy is important.
 
 By accuracy being important, I mean that it is critical that the decisions made from whatever information gathering methods are used provide the highest chances to succeed with the specified goals yielding the best results possible under the realities of the situation.  In short, you really want whatever it is you are going to do to work.
 
