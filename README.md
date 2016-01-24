@@ -93,7 +93,7 @@ The [Ecological Fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy) is a 
 
 This fallacy has a similar to the problem I am presenting here, but does not align to the problem in a super-set manner, and does not account for many of the problems.
 
-The Ecological Fallacy says, to paraphase briefly, that you cannot infer data from a group to make it true about an individual, even if the individual is in that group.
+The Ecological Fallacy says, to paraphase briefly, that you cannot infer data from a group for an individual, even if the individual is in that group.
 
 This is similar to the problem I am stating, in that one is trying to make information out of external data apply validly to an individual, and the information does not necessarily apply.
 
