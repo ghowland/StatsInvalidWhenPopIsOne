@@ -58,7 +58,7 @@ I have created a thought experiment to create a real-world-style scenario for th
 6. Additionally, external information has the potential to be biased through assumptions in test formulation, which are unrelated to the physical location of your car and the obstacle, in this moment in time.
 
 
-## Scope of Change
+## Summary
 
 There are many situations today where statistics and other external data are applied to critical single case scenarios, without the acknowledgement that the comparisons may be invalid as the external data bears no correlation to the precise immediate state of the subject matter.
 
