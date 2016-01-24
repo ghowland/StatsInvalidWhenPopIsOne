@@ -70,7 +70,7 @@ If you can provide a falsification for this assertion, I am happy to ammend it o
 
 The below sections contain material related to this problem.  I am looking for existing art that already describes this problem, as I am not trying to invent something new, but simply come up with a single rule for why non-local data cannot be applied to some problems.
 
-### Criterion is Indepdent of Predictors
+### Criterion is Independent of Predictors
 
 Criterion is independent of the predictors: P(Y) = P(Y|X)
 
