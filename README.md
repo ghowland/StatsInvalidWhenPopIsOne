@@ -9,7 +9,7 @@ By accuracy being important, I mean:
 - ...Yielding the best results possible...
 - ...Under the realities of the situation.
 
-In short, when you really want whatever it is you are going to do to work.
+In short, when you really want whatever it is you are going to do, to work.
 
 My assertion is that when the population size is one, and you care about the accuracy of your data to be as precise as possible, only local information is valid, and no external population statistical values can determine anything about this single unit of population, because all it's data is unique and local.
 
