@@ -9,7 +9,9 @@ To lay out the requirements for this to be true:
 - You have a single unit at a single instance in time
 - You need to make a decision about this unit that requires accurate data (it's important)
 
-Let's start with a thought experiment, to create a real-world scenario for this situation:
+Another way to say "Statistics are invalid", might be to say "No external data is valid, only local data is valid".  Statistics are generally the form that external data is presented in, so that is what I am addressing.
+
+Let's start with a thought experiment, to create a real-world-style scenario for this situation:
 
 ## Initial Scenario
 
