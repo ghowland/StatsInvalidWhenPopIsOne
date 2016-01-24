@@ -56,57 +56,27 @@ I have created a thought experiment to create a real-world-style scenario for th
 5. No amount of non-local data that could be analyzed would be able to give anything but pure chance as to the location of the obstacle in relation to your car, to determine which direction is best to avoid the obstacle.
 6. Additionally, external information has the potential to be biased through assumptions in test formulation, which are unrelated to the physical location of your car and the obstacle, in this moment in time.
 
+
 ## Scope of Change
 
-There are many situations today where statistics are applied to single case scenarios.
+There are many situations today where statistics and other external data are applied to critical single case scenarios, without the acknowledgement that the comparisons may be invalid as the external data bears no correlation to the precise immediate state subject matter.
 
-Every time someone applies a statistical value to a single case, they are ignoring all the local data available to them, and they choose to use aggregated external data instead of the local data to make a decision.  This aggregated external data is assured to be only coincidentally related to the local data, as it is not derived from the local data, so there is no direct relation to the local data.
+My hope, if this assertion is not falsified (please do!), is this the improved information that comes from further discussion will provide another tool when evaluating changes.
 
-Just like in the case of your car with an obstacle in front of it, which is specifically meant to be a very limited situation with a single axis of choice (right or left), and a single problem (obstacle position in relation to right or left side of car), most problems have many additional data points which create a complex network of total working data to make a decision.
-
-However, it does not matter how many data points there are in a problem, or how complex the network of relationships between those data points are, when you are working with a population size of one, it has a 100% unique set of data, which can only be applied to a large population of data in a statistical way, but cannot be reversed from a stastitical population result into a valid comparison with a single unit.
-
-Statistics takes individual data points, and creates a new single aggregate data point, which can be validily compared to other populations, and individuals can be compared to the statistical results to determine how they match up to the statistical population set, always going from more-specific to less-specific.
-
-When trying to use statistics against a population of one, then we are trying to use less-specific information to get more-specific information, which is not possible, because that is creating accurate data from nothing.  Statistics is a lossy operation, and cannot be reversed to get better results than looking at the single case.  When reversing the results from a large-enough population to a single unit population, the results become invalid, as only the local data is accurate data.
-
-I believe we need to study this more thouroughly, as it should be provable with the correct kinds of studies that the efforts to treat problems (of individuals) with statistics yields worse results (because they are invalid) than making decisions based on local data.
-
-### When Working With Statistics Against Single Population Units Is OK
-
-There is a counter-point to this, which is that it is OK to work with statistics against a single unit population size, when you do not care whether the result is a good one for this unit.
-
-This is because if you get a bad result for this unit, but over a large population of units you get a reasonable result, then it is OK that you used statistics to make a decision about this unit, because you are really concerned with a large population, not with this individual unit.
-
-So, this means statistics are valid when working against a large-enough population, and while using statistics on an individual unit is invalid, using statistics invalidly against individual units over and over again, yields statistically valid results in sum.
-
-Thus, it mostly matters whether you care about an individidual instance being correct, or if it is acceptable for that one to be incorrect, while on a large population this can be used validly.
-
-#### But, Information Is Lost
-
-When we use statistical information on a single unit of population, we are performing an invalid operation.
-
-When we use statistical information over-and-over, across single units that create a large-enough population, we have correctly applied population statistics to a population, but because each individual operation was an invalid one, then there was information that was lost in that operation, and in sum we have lost information.
-
-This means that the results we get from running invalid operations fails to give us valid feedback from each operation, which could be used to improve the overall process, and is not available when using an invalid operation, and we are mislead to think that the operation was valid because we did get some information, and it appears to be correlated due to comparing a large-enough population, but since it went through a layer of processing where all the results were invalid, then this is utlimately an invalid correlation.
-
-The process is valid, but the data from the process is invalid, so the final results are questionable in value.
 
 ## Additional Information
-
-At this point I'm going to add in any additional information on this problem, such as comparisons to similar things that do not solve this problem, but are important to understand their similarities and differences.
 
 ### Comparison to the Ecological Fallacy
 
 The [Ecological Fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy) is a description of a problem where you are trying to get information about an individual from the group's information.
 
-This fallacy has a similar to the problem I am presenting here, but does not align to the problem in a super-set manner, and does not account for many of the problems.
+This fallacy has a similar to the problem I am presenting here, but does not align to the problem in a super-set manner, and does not account for many of the problems that are related to uniqueness of information.
 
-The Ecological Fallacy says, to paraphase briefly, that you cannot infer data from a group for an individual, even if the individual is in that group.
+The Ecological Fallacy says, to paraphase, that you cannot infer data from a group for an individual, even if the individual is in that group.
 
-This is similar to the problem I am stating, in that one is trying to take information out of external data and apply it validly to an individual, and the external data is simply not going to represent this single unit at a single isntance, because they are all different and contain their own local state.
+This is similar to the problem I am stating, in that one is trying to take information out of external data and apply it validly to an individual, and the external data is simply not going to represent this single unit, because they are all different and contain their own local state.
 
-The Ecological Fallacy does not match up because it is not focused on the uniqueness of the individual's data directly.  The reason that I am asserting "Statistics Are Invalid If You Care About A Single Population Unit's Data Being Accurate" is that it relates to a real-world problem that we have, which is that we have single instances where we need to make an accurate decision, based on the best information, which must be local information.  Using non-local data means we are not basing our decision on the facts at hand (local data), but data that is certainly not the facts at hand (external data).
+The Ecological Fallacy does not match up because it is not focused on the uniqueness of the individual's data directly.  The reason that I am asserting "Statistics and External Data Are Invalid If You Care About Decisions Around A Single Population Unit's Accuracy" is that it relates to a real-world problem that we have, which is that we have single instances where we need to make an accurate decision, based on the best information, which must be local information.  Using non-local data means we are not basing our decision on the facts at hand (local data), but data that is certainly not the facts at hand (external data).
 
 The external facts may correlate to the local facts, and they may have a low-margin of error against a large-enough population, but against the single unit that we care about there is a boolean value for each discrete value match, and it is 100% aligned against the local data, which is the only accurate source of information.  If we care about accuracy, then we need this 100% accurate data, and data that is 99.9% over a large-enough population is just not good enough, because it does not satisfy our 100% requirement on being accurate for this single unit in this single instance.
 
