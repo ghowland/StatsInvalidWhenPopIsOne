@@ -66,7 +66,13 @@ My hope, if this assertion is not falsified, is this the improved information th
 
 If you can provide a falsification for this assertion, I am happy to ammend it or rescind it accordingly.  Feedback is very welcome, as I am looking for a solution to a problem I have found, and I think this assertion gets things moving that direction, but if I am wrong I am happy to change direction to be less-wrong.
 
-## Additional Information
+## Related Information
+
+### Criterion is Indepdent of Predictors
+
+Criterion is independent of the predictors: P(Y) = P(Y|X)
+
+This might explain this situation, looking into whether this covers the same cases as the problem I am trying to solve.
 
 ### Comparison to the Ecological Fallacy
 
