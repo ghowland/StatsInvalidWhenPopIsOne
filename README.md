@@ -2,7 +2,7 @@
 
 Current Version of this Information: [Howland's Law of Information Locality](https://github.com/ghowland/LawOfInformationLocality)
 
-I wrote this up to explore and publicize this idea, to find prior art.  I didn't find any prior art, so in order to create a label for it, I created a law in the theme of Usenet Law's.
+I wrote this up to explore and publicize this idea, to find prior art.  I didn't find any prior art, so in order to create a label for it, I created a law.
 
 # Original Exploratory Article...
 
