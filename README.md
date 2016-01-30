@@ -1,3 +1,11 @@
+# Depricated in favor of The Law of Information Locality
+
+https://github.com/ghowland/LawOfInformationLocality
+
+I wrote this up to explore and publicize this idea, to find prior art.  I didn't find any prior art, so in order to create a label for it, I created a law in the theme of Usenet Law's.
+
+# Original Exploratory Article...
+
 # Statistics, And Other Non-Local Data Sources, Are Invalid When Population Size Is One And Accuracy Matters
 
 This is a logical essay to assert that all statistics, and other sources of non-local data, are invalid when the population size is one and accuracy is important.
